@@ -24,4 +24,4 @@ The dynamic dashboard needed to contain three roles with different authorization
     <li>Create visualization of Key Performance Indicators (KPI)</li>
 
   <h2>4. Presentation of results</h2>
-    <li>Present the dashboard to the project manager </li>
+    <li>Present the dashboard to the project manager by connecting it with her objectives</li>
