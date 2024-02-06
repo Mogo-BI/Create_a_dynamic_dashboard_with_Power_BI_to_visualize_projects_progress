@@ -31,6 +31,7 @@ The dynamic dashboard needed to contain three roles with different authorization
   <h2>1. Technologies</h2>
     <li>Microsoft Power BI - Power Query Editor</li>
     <li>Microsoft Power BI - DAX functions</li>
+    <li>Microsoft Powerpoint</li>
 
   <h2>2. Assessed skills</h2>
     <li>Present a dashboard to users allowing them to visualize the results</li>
