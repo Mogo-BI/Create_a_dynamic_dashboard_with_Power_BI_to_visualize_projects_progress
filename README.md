@@ -25,3 +25,11 @@ The dynamic dashboard needed to contain three roles with different authorization
 
   <h2>4. Presentation of results</h2>
     <li>Present the dashboard to the project manager by connecting it with her objectives</li>
+
+<h1>III. Technologies & skills</h1>
+
+  <h2>1. Technologies</h2>
+
+  <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
