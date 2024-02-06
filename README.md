@@ -30,17 +30,17 @@ The dynamic dashboard needed to contain three roles with different authorization
 
   <h2>1. Technologies</h2>
 
-  <h2>2. Skills</h2>
+  <h2>2. Assessed skills</h2>
+    <li>Present a dashboard to users allowing them to visualize the results</li>
+    <li>Configure a dashboard according to user needs</li>
+    <li>Identify project' needs to create a suitable dashboard</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
-
-  <h2>2. Office automation</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
-    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi">Openclassrooms : Réalisez des dashboards avec Power BI</a></li>
+    <li><a href="https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P8/Installation+Gantt+(1).pdf">Fiche pratique : Installation de la visualisation « Gantt » dans PowerBI</li>
  
   <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+    <li><a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement?archived-source=5166341">Openclassrooms : Gérez votre temps efficacement</a></li>
+    
