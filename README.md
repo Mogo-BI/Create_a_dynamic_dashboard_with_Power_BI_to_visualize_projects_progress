@@ -40,6 +40,8 @@ The dynamic dashboard needed to contain three roles with different authorization
   <h2>1. Data</h2>
     <li><a href="https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi">Openclassrooms : Réalisez des dashboards avec Power BI</a></li>
     <li><a href="https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P8/Installation+Gantt+(1).pdf">Fiche pratique : Installation de la visualisation « Gantt » dans PowerBI</li>
+    <li><a href="https://learn.microsoft.com/fr-fr/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop">Microsoft : Créer des visualisations des influenceurs clés</li>
+    <li><a href="https://dax.guide/">Dax.guide : Documentation sur les formules DAX</li>
  
   <h2>3. Softskills</h2>
     <li><a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement?archived-source=5166341">Openclassrooms : Gérez votre temps efficacement</a></li>
